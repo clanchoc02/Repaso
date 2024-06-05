@@ -13,6 +13,8 @@ public class Hola {
 
 		System.out.println("Editado por eclipse");
 		
+		System.out.println("Editado por eclipse24");
+		
 	}
 
 }
